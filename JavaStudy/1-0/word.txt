@@ -12,8 +12,8 @@
 
 ■ 言語・環境
   マークアップ／フロントエンド・・・タグを使って文書構造や視覚表現などの情報をコンピュータが認識できるように意味付けしていくこと/直接ユーザーの目に触れる部分のこと
-    HTML・・・Hyper Text Markup Language/Webサイトに表示される情報を記載する言語/○○.html
-    CSS・・・Cascading Style Sheets/HTMLに装飾を加えるための言語/○○.css
+    HTML・・・Hyper Text Markup Language/ブラウザ上に情報を表示するための言語/○○.html
+    CSS・・・Cascading Style Sheets/HTMLを装飾し、閲覧する人にとって見やすくするための言語/○○.css
     JavaScript・・・クライアントサイドで動くプログラミング言語の一つ/ブラウザ上でページに動きを追加するのが仕事
   サーバーサイド
     .NET（C#, VB）.NET Framework (ドットネットフレームワークと読む）上で動作するアプリケーションを開発するためのプログラミング言語
